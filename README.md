@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 NEW THING
 
+TESTING
+
 =======
 print 'Hello World'
 >>>>>>> iss53
