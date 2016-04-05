@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 NEW THING
 
+SOMETHING DIFF IN MASTER LOL
+
 =======
 print 'Hello World'
 >>>>>>> iss53
